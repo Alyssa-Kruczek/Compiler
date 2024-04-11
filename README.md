@@ -1,4 +1,4 @@
 # Compiler
-Capstone Project - create a compiler for a subset of the C language in Python
+Capstone Project - create a compiler in Python for a small, C-like language 
 
 Use the Compiler.ipynb file to compile the .c files into MASM Assembly
